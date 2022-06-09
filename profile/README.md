@@ -24,8 +24,8 @@ With the [Automotive DevOps Platform](https://www.tracetronic.com/products/autom
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tracetronic/.github/blob/i68_support-themed-readme/.github/img/devops-8-dark.png" height="360" />
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/tracetronic/.github/blob/i68_support-themed-readme/.github/img/devops-8-light.png" height="360" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tracetronic/.github/blob/i68_support-themed-readme/.github/img/devops-8-dark.png" height="380" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/tracetronic/.github/blob/i68_support-themed-readme/.github/img/devops-8-light.png" height="380" />
    <img alt="Devops-8" src="https://github.com/tracetronic/.github/blob/i68_support-themed-readme/.github/img/devops-8-light.png">
 </picture>
 </p>
@@ -75,4 +75,3 @@ Jenkins Plugin. The repository in this organization is only the origin.
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
