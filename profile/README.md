@@ -23,7 +23,11 @@ Still too short? See the official [TraceTronic Website](https://www.tracetronic.
 With the [Automotive DevOps Platform](https://www.tracetronic.com/products/automotive-devops-platform/), we go from the big picture to the details and unite **all phases of vehicle software testing** – from planning the test scopes to summarizing the test results. At the same time, **continuous monitoring across all test phases** always provides an overview of all activities – even with several thousand test executions per day and in different test environments.
 
 <p align="center">
-  <img height="360" src="https://github.com/tracetronic/.github/blob/main/.github/img/devops-8.png?raw=true">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tracetronic/.github/blob/i68_support-themed-readme/.github/img/devops-8-dark.png" height="360" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/tracetronic/.github/blob/i68_support-themed-readme/.github/img/devops-8-light.png" height="360" />
+   <img alt="Devops-8" src="https://github.com/tracetronic/.github/blob/i68_support-themed-readme/.github/img/devops-8-light.png">
+</picture>
 </p>
 
 
