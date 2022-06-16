@@ -24,9 +24,9 @@ With the [Automotive DevOps Platform](https://www.tracetronic.com/products/autom
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tracetronic/.github/blob/i68_support-themed-readme/.github/img/devops-8-dark.png" height="380" />
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/tracetronic/.github/blob/i68_support-themed-readme/.github/img/devops-8-light.png" height="380" />
-   <img alt="DevOps lifecycle, represented as a laying eight." src="https://github.com/tracetronic/.github/blob/i68_support-themed-readme/.github/img/devops-8-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tracetronic/.github/blob/main/.github/img/devops-8-dark.png" height="380" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/tracetronic/.github/blob/main/.github/img/devops-8-light.png" height="380" />
+   <img alt="DevOps lifecycle, represented as a laying eight." src="https://github.com/tracetronic/.github/blob/main/.github/img/devops-8-light.png">
 </picture>
 </p>
 
