@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the TraceTronic Open-Source Headquarter 👋</h1>
+<h1 align="center">Welcome to the TraceTronic Open-Source Headquarters 👋</h1>
 
 <p align="center">
   <code>
