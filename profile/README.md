@@ -49,8 +49,7 @@ Please visit these repositories to get a short introduction containing the use c
 ### Jenkins Plugin
 Our approach for testing is based on an easy integration of ECU-TEST into your continuous integration workflows. Because a lot of our customers are still using [Jenkins](https://jenkins.io) as CI platform of choice our Plugin bridges the gap and allows the test process to be flexibly adapted to the specific requirements of the project.
 
-Our [ECU-TEST Plugin](https://github.com/jenkinsci/ecutest-plugin) is hosted by the Jenkins community like any other
-Jenkins Plugin. The repository in this organization is only the origin.
+Our [ECU-TEST Plugin](https://github.com/jenkinsci/ecutest-plugin) and [ECU-TEST Execution Plugin](https://github.com/jenkinsci/ecu-test-execution-plugin) are hosted by the Jenkins community like any other Jenkins Plugins. The repositories in this organization are only the origins.
 
 
 <h2 align="center">Follow Us</h2>
