@@ -39,7 +39,7 @@ around our platform and also around our software products [ECU-TEST](https://www
 <h2 align="center">Overview</h2>
 
 ### Batteries for the Automotive DevOps Platform
-The TraceTronic GitHub organization contains actually the following batteries
+The TraceTronic GitHub organization contains currently the following batteries
 * [cx-templates](https://github.com/tracetronic/cx-templates)
 * [helm-charts](https://github.com/tracetronic/helm-charts)
 * [jenkins-library](https://github.com/tracetronic/jenkins-library)
