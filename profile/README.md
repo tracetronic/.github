@@ -64,7 +64,7 @@ Our [ECU-TEST Plugin](https://github.com/jenkinsci/ecutest-plugin) and [ECU-TEST
   <a href="https://twitter.com/tracetronic" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.youtube.com/channel/UCdyjBSRJuTHUcI1QYp8soIg" target="blank">
+  <a href="https://www.youtube.com/@tracetronicgmbh" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.xing.com/pages/tracetronicgmbh" target="blank">
