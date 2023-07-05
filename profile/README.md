@@ -70,6 +70,9 @@ Our [ECU-TEST Plugin](https://github.com/jenkinsci/ecutest-plugin) and [ECU-TEST
   <a href="https://www.xing.com/pages/tracetronicgmbh" target="blank">
     <img src="https://img.shields.io/badge/xing-%23006567.svg?style=flat&logo=xing&logoColor=white" alt="Xing" />
   </a>
+  <a href="https://www.instagram.com/tracetronic/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-405DE6?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://github.com/tracetronic" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
