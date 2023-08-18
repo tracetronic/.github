@@ -40,6 +40,7 @@ around our platform and also around our software products [ECU-TEST](https://www
 
 ### Batteries for the Automotive DevOps Platform
 The TraceTronic GitHub organization contains currently the following batteries
+
 * [ecu-test_custom-checks](https://github.com/tracetronic/ecu-test_custom-checks)
 * [cx-templates](https://github.com/tracetronic/cx-templates)
 * [helm-charts](https://github.com/tracetronic/helm-charts)
