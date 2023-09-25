@@ -1,0 +1,10 @@
+name: Check Markdown Links
+
+on:
+  push:
+  schedule:
+    - cron: "0 8 * * 1"
+
+jobs:
+  markdown-link-check:
+    uses: tracetronic/.github/.github/workflows/md-link-check.yml@main

@@ -1,0 +1,11 @@
+{
+  "name": "Check Markdown Links",
+  "description": "This action checks all Markdown files for broken links.",
+  "iconName": "octicon unlink",
+  "categories": [
+    "Pages"
+  ],
+  "filePatterns": [
+    "**/.*\\.md$"
+  ]
+}
