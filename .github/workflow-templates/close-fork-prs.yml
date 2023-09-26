@@ -1,4 +1,4 @@
-name: REUSE Compliance Check
+name: Auto Close Pull Requests From Forks
 
 on:
   pull_request:

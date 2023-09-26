@@ -1,6 +1,6 @@
 {
   "name": "Auto Close Pull Requests From Forks",
-  "description": "This action close pull requests from forks automatically.",
+  "description": "This action closes pull requests from forks automatically.",
   "iconName": "octicon git-pull-request-closed",
   "categories": [
     "Automation"
