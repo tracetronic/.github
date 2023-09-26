@@ -1,0 +1,11 @@
+{
+  "name": "REUSE Compliance Check",
+  "description": "This action allows to check for compliance with the REUSE best practices.",
+  "iconName": "octicon checklist",
+  "categories": [
+    "code-quality"
+  ],
+  "filePatterns": [
+    ".reuse$"
+  ]
+}

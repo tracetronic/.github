@@ -1,0 +1,11 @@
+name: Auto Close Pull Requests From Forks
+
+on:
+  pull_request:
+    types: [opened, reopened]
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  markdown-link-check:
+    uses: tracetronic/.github/.github/workflows/close-fork-prs.yml@main

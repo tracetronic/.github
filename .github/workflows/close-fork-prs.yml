@@ -1,0 +1,21 @@
+name: Auto Close Pull Requests From Forks
+
+on:
+  workflow_call:
+    inputs:
+      comment:
+        description: "Reason for auto closing pull request from fork"
+        required: false
+        type: string
+        default: |
+          We do not accept any external pull request. Auto closing this pull request.
+          If you have any questions, please contact us at [support@tracetronic.com](mailto:support@tracetronic.com).
+
+jobs:
+  close-prs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close Pull Requests
+        uses: peter-evans/close-fork-pulls@v2
+        with:
+          comment: ${{ inputs.comment }}
