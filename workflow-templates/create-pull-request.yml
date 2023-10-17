@@ -5,7 +5,5 @@ on:
     branches-ignore: [$default-branch]
 
 jobs:
-  create-branch:
+  create-pr:
     uses: tracetronic/.github/.github/workflows/create-pull-request.yml@main
-    with:
-      base_branch: $default-branch
