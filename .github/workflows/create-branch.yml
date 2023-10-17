@@ -12,9 +12,9 @@ jobs:
         id: branch_name
         run: |
           issue_number="${{ github.event.issue.number }}"
-          issue_title="${{ github.event.issue.title }}" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g')
+          issue_title=$(echo "${{ github.event.issue.title }}" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g')
 
-          echo "BRANCH_NAME=i$issue-number_$issue_title" >> $GITHUB_ENV
+          echo "BRANCH_NAME=i${issue_number}_${issue_title}" >> $GITHUB_ENV
       - name: Create Issue Branch
         if: "!contains($(git ls-remote --heads origin ${env.BRANCH_NAME}), ${{ env.BRANCH_NAME }})"
         uses: peterjgrainger/action-create-branch@v2.0.1
