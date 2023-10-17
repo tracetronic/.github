@@ -1,0 +1,8 @@
+{
+  "name": "Auto Create Pull Request",
+  "description": "When the first commit on a branch is made, this action generates a representative pull request. Branch name 'i<issue-number>_<lowercase issue_title with dashes>' leads to '<issue_title capitalized with spaces>'",
+  "iconName": "octicon git-pull-request",
+  "categories": [
+    "Automation"
+  ]
+}

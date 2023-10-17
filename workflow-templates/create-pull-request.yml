@@ -1,0 +1,11 @@
+name: Auto Create Pull Request
+
+on:
+  push:
+    branches-ignore: [$default-branch]
+
+jobs:
+  create-branch:
+    uses: tracetronic/.github/.github/workflows/create-pull-request.yml@main
+    with:
+      base_branch: $default-branch
