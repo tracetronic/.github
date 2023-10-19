@@ -1,0 +1,8 @@
+{
+  "name": "Auto Create Branch",
+  "description": "This action creates a representive branch 'i<issue-number>_<lowercase issue_title with dashes>' when an issue was assigned.",
+  "iconName": "octicon git-branch",
+  "categories": [
+    "Automation"
+  ]
+}

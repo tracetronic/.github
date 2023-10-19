@@ -1,0 +1,45 @@
+name: Auto Create Branch
+
+on:
+  workflow_call:
+    inputs:
+      ref:
+        description: "Branch or commit reference to create the new branch from"
+        required: false
+        type: string
+        default: main
+
+permissions:
+  contents: write
+
+jobs:
+  create-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create Branch name
+        id: branch_name
+        run: |
+          issue_number="${{ github.event.issue.number }}"
+          issue_title=$(echo "${{ github.event.issue.title }}" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g')
+
+          echo "BRANCH_NAME=i${issue_number}_${issue_title}" >> $GITHUB_ENV
+      - name: Create Issue Branch
+        if: "!contains($(git ls-remote --heads origin ${env.BRANCH_NAME}), ${{ env.BRANCH_NAME }})"
+        run: |
+          repo="${{ github.repository }}"
+          branch_name="${{ env.BRANCH_NAME }}"
+
+          # last commit hash
+          last_sha=$(curl -s -L -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${repo}/commits/${{ inputs.ref }}" | jq -r '.sha')
+
+          # create new branch
+          payload=$(printf '{"ref":"refs/heads/%s","sha":"%s"}' "${branch_name}" "${last_sha}")
+          curl -s -L -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
+            -d "$payload" \
+            "https://api.github.com/repos/${repo}/git/refs"
