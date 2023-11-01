@@ -36,7 +36,6 @@ jobs:
           echo "PR_TITLE=$(echo ${branch_name} | sed 's/\b\(.\)/\u\1/g' | sed 's/-/ /g')" >> $GITHUB_ENV
       - name: Create Pull Request
         run: |
-          repo
           repo="${{ github.repository }}"
           head="${{ github.ref }}"
 
