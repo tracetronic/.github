@@ -10,17 +10,17 @@
     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=13553645">
 </p>
 
-**For those in a hurry:** [tracetronic](https://www.tracetronic.de/) develops solutions for the **automated testing and integration of automotive software.**
+**For those in a hurry:** [tracetronic](https://www.tracetronic.com) develops solutions for the **automated testing and integration of automotive software.**
 
 **More precisely:** we combat increasingly complex functions and exponentially rising data volumes in vehicles with **test automation** and a framework that allows the integration of even **heterogeneous test landscapes, including third-party tools**. That’s number one.
 
 **Number two:** we have always worked – and always will – according to the **principles of agile software development**. This means we are really quick in adapting to changing project conditions and we always put the **customer benefit first**.
 
-Still too short? See the official [tracetronic Website](https://www.tracetronic.com/).
+Still too short? See the official [tracetronic Website](https://www.tracetronic.com).
 
 <h2 align="center">Automotive DevOps Platform</h2>
 
-With the [Automotive DevOps Platform](https://www.tracetronic.com/products/automotive-devops-platform/), we go from the big picture to the details and unite **all phases of vehicle software testing** – from planning the test scopes to summarizing the test results. At the same time, **continuous monitoring across all test phases** always provides an overview of all activities – even with several thousand test executions per day and in different test environments.
+With the [Automotive DevOps Platform](https://www.tracetronic.com/solutions/automotive-devops-platform), we go from the big picture to the details and unite **all phases of vehicle software testing** – from planning the test scopes to summarizing the test results. At the same time, **continuous monitoring across all test phases** always provides an overview of all activities – even with several thousand test executions per day and in different test environments.
 
 <p align="center">
 <picture>
