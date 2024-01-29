@@ -34,7 +34,7 @@ With the [Automotive DevOps Platform](https://www.tracetronic.com/products/autom
 Our platform follows the _batteries-included_ approach. Therefore, a lot of different open-source
 batteries, are located in our GitHub repositories with extensions, adapters, examples and
 templates
-around our platform and also around our software products [ECU-TEST](https://www.tracetronic.com/products/ecu-test/), [TRACE-CHECK](https://www.tracetronic.com/products/trace-check/) and [TEST-GUIDE](https://www.tracetronic.com/products/test-guide/).
+around our platform and also around our software products [ecu.test](https://www.tracetronic.com/products/ecu-test/), [trace.check](https://www.tracetronic.com/products/trace-check/) and [test.guide](https://www.tracetronic.com/products/test-guide/).
 
 <h2 align="center">Overview</h2>
 
@@ -49,9 +49,9 @@ The tracetronic GitHub organization contains currently the following batteries
 Please visit these repositories to get a short introduction containing the use cases and some instructions to start using them.
 
 ### Jenkins Plugin
-Our approach for testing is based on an easy integration of ECU-TEST into your continuous integration workflows. Because a lot of our customers are still using [Jenkins](https://jenkins.io) as CI platform of choice our Plugin bridges the gap and allows the test process to be flexibly adapted to the specific requirements of the project.
+Our approach for testing is based on an easy integration of ecu.test into your continuous integration workflows. Because a lot of our customers are still using [Jenkins](https://jenkins.io) as CI platform of choice our Plugin bridges the gap and allows the test process to be flexibly adapted to the specific requirements of the project.
 
-Our [ECU-TEST Plugin](https://github.com/jenkinsci/ecutest-plugin) and [ECU-TEST Execution Plugin](https://github.com/jenkinsci/ecu-test-execution-plugin) are hosted by the Jenkins community like any other Jenkins Plugins. The repositories in this organization are only the origins.
+Our [ecu.test Plugin](https://github.com/jenkinsci/ecutest-plugin) and [ecu.test Execution Plugin](https://github.com/jenkinsci/ecu-test-execution-plugin) are hosted by the Jenkins community like any other Jenkins Plugins. The repositories in this organization are only the origins.
 
 
 <h2 align="center">Follow Us</h2>
