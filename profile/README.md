@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the TraceTronic Open-Source Headquarters 👋</h1>
+<h1 align="center">Welcome to the tracetronic Open-Source Headquarters 👋</h1>
 
 <p align="center">
   <code>
@@ -10,13 +10,13 @@
     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=13553645">
 </p>
 
-**For those in a hurry:** [TraceTronic](https://www.tracetronic.de/) develops solutions for the **automated testing and integration of automotive software.**
+**For those in a hurry:** [tracetronic](https://www.tracetronic.de/) develops solutions for the **automated testing and integration of automotive software.**
 
 **More precisely:** we combat increasingly complex functions and exponentially rising data volumes in vehicles with **test automation** and a framework that allows the integration of even **heterogeneous test landscapes, including third-party tools**. That’s number one.
 
 **Number two:** we have always worked – and always will – according to the **principles of agile software development**. This means we are really quick in adapting to changing project conditions and we always put the **customer benefit first**.
 
-Still too short? See the official [TraceTronic Website](https://www.tracetronic.com/).
+Still too short? See the official [tracetronic Website](https://www.tracetronic.com/).
 
 <h2 align="center">Automotive DevOps Platform</h2>
 
@@ -39,7 +39,7 @@ around our platform and also around our software products [ECU-TEST](https://www
 <h2 align="center">Overview</h2>
 
 ### Batteries for the Automotive DevOps Platform
-The TraceTronic GitHub organization contains currently the following batteries
+The tracetronic GitHub organization contains currently the following batteries
 
 * [ecu-test_custom-checks](https://github.com/tracetronic/ecu-test_custom-checks)
 * [cx-templates](https://github.com/tracetronic/cx-templates)
