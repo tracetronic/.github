@@ -22,15 +22,6 @@ Still too short? See the official [tracetronic Website](https://www.tracetronic.
 
 With the [Automotive DevOps Platform](https://www.tracetronic.com/solutions/automotive-devops-platform), we go from the big picture to the details and unite **all phases of vehicle software testing** – from planning the test scopes to summarizing the test results. At the same time, **continuous monitoring across all test phases** always provides an overview of all activities – even with several thousand test executions per day and in different test environments.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tracetronic/.github/blob/main/.github/img/devops-8-dark.png" height="380" />
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/tracetronic/.github/blob/main/.github/img/devops-8-light.png" height="380" />
-   <img alt="DevOps lifecycle, represented as a laying eight." src="https://github.com/tracetronic/.github/blob/main/.github/img/devops-8-light.png">
-</picture>
-</p>
-
-
 Our platform follows the _batteries-included_ approach. Therefore, a lot of different open-source
 batteries, are located in our GitHub repositories with extensions, adapters, examples and
 templates
