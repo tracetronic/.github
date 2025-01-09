@@ -57,7 +57,7 @@ Our [ecu.test Plugin](https://github.com/jenkinsci/ecutest-plugin) and [ecu.test
   <a href="https://x.com/tracetronic" target="blank">
     <img src="https://img.shields.io/badge/-1DA1F2?style=flat&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.youtube.com/channel/UCdyjBSRJuTHUcI1QYp8soIg" target="blank">
+  <a href="https://www.youtube.com/@tracetronicgmbh" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.xing.com/pages/tracetronicgmbh" target="blank">
