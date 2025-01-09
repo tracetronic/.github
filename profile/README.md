@@ -64,7 +64,7 @@ Our [ecu.test Plugin](https://github.com/jenkinsci/ecutest-plugin) and [ecu.test
     <img src="https://img.shields.io/badge/xing-%23006567.svg?style=flat&logo=xing&logoColor=white" alt="Xing" />
   </a>
   <a href="https://www.instagram.com/tracetronic" target="blank">
-    <img src="https://img.shields.io/badge/-1DA1F2?style=flat&logo=instagram&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=flat&logo=instagram&logoColor=white" alt="X" />
   </a>
   <a href="https://github.com/tracetronic" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
