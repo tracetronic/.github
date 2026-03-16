@@ -35,7 +35,7 @@ The tracetronic GitHub organization contains currently the following batteries
 * [ecu-test_custom-checks](https://github.com/tracetronic/ecu-test_custom-checks)
 * [test.guide Report Generator](https://github.com/tracetronic/testguide_report-generator)
 * [ecu.test Diff Extension](https://github.com/tracetronic/ecu.test-diff)
-* [ecu.test code](https://github.com/tracetronic/ecu.test-code
+* [ecu.test code](https://github.com/tracetronic/ecu.test-code)
 * [XCP dissector](https://github.com/tracetronic/wireshark-xcp-dissector)
 
 Please visit these repositories to get a short introduction containing the use cases and some instructions to start using them.
